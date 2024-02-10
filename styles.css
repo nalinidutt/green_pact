@@ -1,30 +1,30 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-  }
-  
-  nav {
-    background-color: #333;
-  }
-  
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  li {
-    display: inline;
-  }
-  
-  li a {
-    display: block;
-    padding: 10px 20px;
-    text-decoration: none;
-    color: #fff;
-  }
-  
-  li a:hover {
-    background-color: #555;
-  }
-  
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  background-color: #333;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  padding: 15px 20px;
+  text-decoration: none;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+li a:hover {
+  background-color: #555;
+}
