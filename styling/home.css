@@ -1,0 +1,41 @@
+div.podium {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+  }
+  
+  div.stand {
+    display: inline-block;
+    background-color: gray;
+    width: 10rem;
+    margin-right: 40px;
+    position: relative;
+  }
+  
+  #first {
+    height: 100px;
+    transform: translateY(50px);
+  }
+  
+  #second {
+    height: 80px;
+    transform: translateY(70px);
+  }
+  
+  #third {
+    height: 50px;
+    transform: translateY(100px);
+  }
+  
+  #medal {
+    background-color: brown;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
