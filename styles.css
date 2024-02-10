@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-  background-color: #9AB57A; /* Sage green color */
+  background-color: #9AB57A;
 }
 
 ul {
@@ -19,14 +19,14 @@ li {
 
 li a {
   display: block;
-  padding: 15px 20px;
+  padding: 15px 30px 20px 30px;
   text-decoration: none;
   color: #fff;
   transition: background-color 0.3s ease;
 }
 
 li a:hover {
-  background-color: #7E9D70; /* Darker shade of sage green on hover */
+  background-color: #7E9D70;
 }
 
 /* Animation */
