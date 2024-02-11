@@ -1,0 +1,61 @@
+Companies,SICS Industry,Total Scope 1 GHG Emissions,Total Scope 2 market-based GHG emissions,Total Scope 3 GHG Emissions,Indicates disclosure of assurance or verification of GHG emissions,Indicates disclosure of absolute GHG emissions reduction target,Indicates disclosure of GHG emissions intensity reduction target,Indicates disclosure of validation of GHG emissions reduction targets,Stock Name,Stock Price,Currency,USDStockPrice,Sustainability Score
+adidas AG,"Apparel, Accessories & Footwear","12,908.400 tCO₂e","125,502.200 tCO₂e","7,254,510.000 tCO₂e",1,1,0,1,ADDYY,93.71,USD,93.71,3
+ALPHABET INC.,Internet Media & Services,"45,073.000 tCO₂e","1,823,132.000 tCO₂e","9,503,000.000 tCO₂e",1,1,0,0,GOOG,147.22,USD,147.22,4
+"AMERICAN AIRLINES, INC.",Airlines,"28,810,236.000 tCO₂e","249,112.000 tCO₂e","12,907,211.000 tCO₂e",1,1,1,1,AAL,14.95,USD,14.95,4
+American Eagle Outfitters Inc.,"Apparel, Accessories & Footwear","7,790.000 tCO₂e","41,795.000 tCO₂e","3,002,500.000 tCO₂e",0,null,null,null,AEO,21.62,USD,21.62,3
+ASICS Corporation,"Apparel, Accessories & Footwear","3,071.000 tCO₂e","19,138.000 tCO₂e","684,314.000 tCO₂e",1,1,0,1,ASCCF,30.17,USD,30.17,3
+ATEA ASA,Software & IT Services,"3,407.000 tCO₂e","2,880.000 tCO₂e","796,353.000 tCO₂e",1,1,0,1,ATEA.OL,129.6,NOK,12.27,3
+"AUTOLIV, INC.",Auto Parts,"103,000.000 tCO₂e","333,000.000 tCO₂e","9,953,000.000 tCO₂e",0,1,0,1,ALV,109.5,USD,109.5,2
+BURBERRY GROUP PLC,"Apparel, Accessories & Footwear","2,089.000 tCO₂e","1,916.000 tCO₂e","244,490.000 tCO₂e",1,null,null,null,BURBY,16.7,USD,16.7,4
+CARREFOUR,Food Retailers & Distributors,"613,932.000 tCO₂e","869,069.000 tCO₂e","137,075,378.000 tCO₂e",1,1,0,1,CA.PA,15.2,EUR,16.38,4
+"CATALENT PHARMA SOLUTIONS, INC.",Biotechnology & Pharmaceuticals,"65,500.000 tCO₂e","111,800.000 tCO₂e",0.000 tCO₂e,1,1,0,0,CTLT,56.55,USD,56.55,2
+CEMEX S A B DE C V,Construction Materials,"38,399,669.500 tCO₂e","3,523,001.800 tCO₂e","15,121,840.833 tCO₂e",1,1,1,1,CX,7.98,USD,7.98,4
+"CISCO SYSTEMS, INC.",Hardware,"26,694.000 tCO₂e","147,801.000 tCO₂e","22,944,709.000 tCO₂e",1,1,0,1,CSCO,49.95,USD,49.95,5
+COGNIZANT TECHNOLOGY SOLUTIONS CORPORATION,Software & IT Services,"10,600.000 tCO₂e","62,903.000 tCO₂e","1,190,951.000 tCO₂e",1,1,0,0,CTSH,78.3,USD,78.3,1
+COLGATE-PALMOLIVE COMPANY,Household & Personal Products,"218,500.000 tCO₂e","267,300.000 tCO₂e","40,539,100.000 tCO₂e",1,1,0,1,CL,84.26,USD,84.26,5
+COMPUTACENTER PLC,Software & IT Services,"1,908.000 tCO₂e","3,202.000 tCO₂e","1,336,943.080 tCO₂e",1,1,0,0,CCC.L,2928,GBp,3694.84,2
+"CROWN HOLDINGS, INC.",Containers & Packaging,"545,488.000 tCO₂e","597,528.000 tCO₂e","10,230,048.000 tCO₂e",1,1,0,1,CCK,74.29,USD,74.29,4
+DANONE,Processed Foods,"682,674.000 tCO₂e","294,896.000 tCO₂e","23,733,344.000 tCO₂e",1,1,1,1,BN.PA,61.63,EUR,66.42,5
+Dell Technologies Inc.,Hardware,"44,870.000 tCO₂e","174,861.000 tCO₂e","14,975,553.000 tCO₂e",1,null,null,null,DELL,84.8,USD,84.8,4
+DOMINO'S PIZZA GROUP PLC,Restaurants,"12,948.000 tCO₂e","4,096.000 tCO₂e","505,504.000 tCO₂e",1,1,0,1,DOM.L,343.2,GBp,433.08,2
+Dürr Aktiengesellschaft,Industrial Machinery & Goods,"25,553.000 tCO₂e","22,819.000 tCO₂e","7,939,830.000 tCO₂e",1,1,0,1,DUE.DE,20.68,EUR,22.29,1
+ENTAIN PLC,Casinos & Gaming,"2,006.000 tCO₂e","11,738.000 tCO₂e","297,656.000 tCO₂e",1,0,0,null,ENT.L,986.6,GBp,1244.99,3
+FORD MOTOR COMPANY,Automobiles,"1,069,906.740 tCO₂e","2,000,127.850 tCO₂e","299,853,676.000 tCO₂e",1,1,1,1,F,12.83,USD,12.83,5
+GENERAL MOTORS COMPANY,Automobiles,"1,252,906.000 tCO₂e","2,150,694.000 tCO₂e","233,167,875.000 tCO₂e",1,1,1,1,GM,38.65,USD,38.65,5
+"Hitachi,Ltd.",Electrical & Electronic Equipment,"1,219,423.000 tCO₂e","2,096,689.000 tCO₂e","69,085,000.000 tCO₂e",1,null,null,null,HTHIY,160.69,USD,160.69,5
+HP INC.,Hardware,"48,700.000 tCO₂e","110,800.000 tCO₂e","32,760,000.000 tCO₂e",1,1,1,1,HPQ,28.29,USD,28.29,5
+IMPERIAL BRANDS PLC,Tobacco,"95,987.000 tCO₂e","136,401.000 tCO₂e","966,662.000 tCO₂e",1,null,null,null,IMO,58.83,USD,58.83,5
+IPSEN,Biotechnology & Pharmaceuticals,"15,408.000 tCO₂e","3,826.000 tCO₂e","35,649.000 tCO₂e",1,0,1,0,IPSEY,28.495,USD,28.5,3
+Kao Corporation,Household & Personal Products,"604,624.000 tCO₂e","241,490.000 tCO₂e","11,210,000.000 tCO₂e",1,1,0,1,KAOOY,7.4,USD,7.4,5
+KINGFISHER PLC,Multiline and Specialty Retailers & Distributors,"139,326.158 tCO₂e","66,440.535 tCO₂e","16,333,681.114 tCO₂e",1,null,null,null,KGF.L,219.9,GBp,277.49,4
+LULULEMON ATHLETICA INC.,"Apparel, Accessories & Footwear","3,092.399 tCO₂e",110.677 tCO₂e,"1,343,649.000 tCO₂e",1,1,1,1,LULU,472.98,USD,472.98,3
+"MARRIOTT INTERNATIONAL, INC.",Hotels & Lodging,"1,104,234.000 tCO₂e","4,726,284.000 tCO₂e","11,034,325.000 tCO₂e",1,0,1,null,MAR,249.58,USD,249.58,3
+MCDONALD'S CORPORATION,Restaurants,"113,286.000 tCO₂e","469,236.000 tCO₂e","56,803,958.000 tCO₂e",0,1,1,1,MCD,291.93,USD,291.93,2
+MICROSOFT CORPORATION,Software & IT Services,"123,704.000 tCO₂e","163,935.000 tCO₂e","13,784,501.000 tCO₂e",1,1,1,1,MSFT,414.11,USD,414.11,5
+"MOHAWK INDUSTRIES, INC.",Building Products & Furnishings,"1,726,140.000 tCO₂e","924,610.000 tCO₂e",0.000 tCO₂e,0,0,1,null,MHK,109.61,USD,109.61,2
+NESTLÉ S.A.,Processed Foods,"3,372,000.000 tCO₂e","1,610,000.000 tCO₂e","113,720,072.000 tCO₂e",1,1,0,1,NSRGY,111.86,USD,111.86,4
+"NIKE, INC.","Apparel, Accessories & Footwear","42,720.000 tCO₂e","76,420.000 tCO₂e","16,557,600.000 tCO₂e",1,1,0,1,NKE,103.77,USD,103.77,4
+"ONO PHARMACEUTICAL CO., LTD.",Biotechnology & Pharmaceuticals,"10,136.024 tCO₂e","16,008.917 tCO₂e","48,481.250 tCO₂e",1,null,null,null,OPHLY,5.59,USD,5.59,5
+ORKLA ASA,Processed Foods,"119,854.000 tCO₂e","3,073.000 tCO₂e","3,357,329.000 tCO₂e",1,1,0,1,ORK.OL,76.68,NOK,7.26,4
+Pandora A/S,"Apparel, Accessories & Footwear","1,163.000 tCO₂e","20,997.000 tCO₂e","231,303.000 tCO₂e",1,1,0,1,PNDORA.CO,1078,DKK,155.66,2
+"PepsiCo, Inc.",0n-Alcoholic Beverages,"3,596,712.000 tCO₂e","683,136.000 tCO₂e","58,408,945.000 tCO₂e",1,1,0,1,PEP,173.85,USD,173.85,4
+PERNOD RICARD,Alcoholic Beverages,"265,819.000 tCO₂e","29,178.000 tCO₂e","2,887,407.000 tCO₂e",1,1,1,1,RI.PA,156.7,EUR,168.89,3
+PROXIMUS,Telecommunication Services,"26,620.000 tCO₂e",0.000 tCO₂e,"432,789.280 tCO₂e",1,1,0,1,PROX.BR,8.382,EUR,9.03,4
+QUALCOMM INCORPORATED,Semiconductors,"106,659.000 tCO₂e","171,932.000 tCO₂e","4,179,986.000 tCO₂e",1,1,0,0,QCOM,148.18,USD,148.18,3
+Schindler Holding AG,Electrical & Electronic Equipment,"135,905.000 tCO₂e","8,809.000 tCO₂e","9,777,459.000 tCO₂e",1,1,0,1,SCHN.SW,205.8,CHF,235.21,3
+"SERVICENOW, INC.",Software & IT Services,"1,401.000 tCO₂e",434.000 tCO₂e,"178,416.000 tCO₂e",1,1,1,1,NOW,799.41,USD,799.41,2
+SPLUNK INC.,Software & IT Services,24.000 tCO₂e,"2,703.000 tCO₂e","20,635.000 tCO₂e",1,1,0,0,SPLK,154.25,USD,154.25,1
+SSAB AB,Iron & Steel Producers,"10,640,817.000 tCO₂e","1,028,850.000 tCO₂e",0.000 tCO₂e,1,1,0,1,SSAB-B.ST,80.32,SEK,7.68,2
+Steelcase Inc,Building Products & Furnishings,"32,763.550 tCO₂e",0.000 tCO₂e,"607,750.785 tCO₂e",1,null,null,null,SCS,12.86,USD,12.86,3
+"Super Micro Computer, Inc.",Hardware,"3,154.000 tCO₂e","4,491.000 tCO₂e","9,514,276.000 tCO₂e",0,1,0,0,SMCI,698,USD,698,2
+SWECO AB (publ),Engineering & Construction Services,"5,472.000 tCO₂e","9,149.000 tCO₂e","14,403.000 tCO₂e",0,1,0,0,SWEC-B.ST,120.3,SEK,11.5,1
+"TAPESTRY, INC.","Apparel, Accessories & Footwear","3,523.000 tCO₂e","37,245.000 tCO₂e","411,583.000 tCO₂e",1,1,0,null,TPR,42.99,USD,42.99,2
+TESCO PLC,Food Retailers & Distributors,"1,053,131.000 tCO₂e","13,631.000 tCO₂e","56,241,579.000 tCO₂e",1,null,null,null,TSCO.L,280.4,GBp,353.84,3
+THERMO FISHER SCIENTIFIC INC.,Medical Equipment & Supplies,"298,043.000 tCO₂e","314,972.000 tCO₂e","11,702,924.000 tCO₂e",1,1,0,0,TMO,550.89,USD,550.89,2
+"Thor Industries, Inc.",Automobiles,"58,507.000 tCO₂e","51,726.000 tCO₂e",0.000 tCO₂e,0,1,1,0,THO,116.5,USD,116.5,1
+UNILEVER PLC,Household & Personal Products,"565,987.707 tCO₂e","144,752.170 tCO₂e","61,445,738.000 tCO₂e",1,1,1,1,UL,50.68,USD,50.68,5
+VISTRY GROUP PLC,Home Builders,"22,290.000 tCO₂e","3,727.000 tCO₂e","1,752,795.000 tCO₂e",1,1,1,0,VTY.L,973.5,GBp,1228.46,2
+VISA INC.,Software & IT Services,"4,018.000 tCO₂e",0.000 tCO₂e,"320,987.000 tCO₂e",1,1,0,1,V,275.78,USD,275.78,5
+VIVENDI SE,Media & Entertainment,"12,294.000 tCO₂e","19,813.000 tCO₂e","1,519,739.000 tCO₂e",1,1,0,0,VIV.PA,10.17,EUR,10.96,2
+VODAFONE GROUP PUBLIC LIMITED COMPANY,Telecommunication Services,"271,626.000 tCO₂e","1,096,240.000 tCO₂e","9,400,837.000 tCO₂e",1,null,null,null,VOD,8.16,USD,8.16,4
+YKK CORPORATION,0t Classified by SICS,"76,357.000 tCO₂e","383,282.000 tCO₂e","539,893.000 tCO₂e",0,null,null,null,YKK.BE,26.2,EUR,28.24,5
